@@ -1,3 +1,6 @@
+//My Student ID : 10956158
+// I pledge that I, 10956158, did the assignment myself.
+
 #include <iostream> 
 using namespace std;
 void AverageProject(){
